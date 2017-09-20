@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-daikin-aircon",
+  "name": "homebridge-daikin-aircon-outdoor",
   "version": "0.0.5",
-  "description": "Daikin aircon plugin for homebridge: https://github.com/nfarina/homebridge",
+  "description": "Daikin aircon outdoor unit plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "MIT",
   "keywords": [
     "homebridge-plugin"
