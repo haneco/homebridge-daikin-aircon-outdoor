@@ -7,6 +7,12 @@ AN80TRPとBRP072A41の組み合わせで動作確認しています。
 
 室内のエアコン操作はhomebridge-daikin-airconをご利用ください。
 
+## インストール
+
+```
+npm install -g homebridge-daikin-aircon-outdoor
+```
+
 ## 設定
 
 ```
